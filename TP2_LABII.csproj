@@ -64,22 +64,22 @@
     <Compile Include="Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="Modificados Eli\ClientesV.cs">
+    <Compile Include="ClientesV.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Modificados Eli\ClientesV.designer.cs">
+    <Compile Include="ClientesV.designer.cs">
       <DependentUpon>ClientesV.cs</DependentUpon>
     </Compile>
-    <Compile Include="Modificados Eli\ClientesVNuevo.cs">
+    <Compile Include="ClientesVNuevo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Modificados Eli\ClientesVNuevo.Designer.cs">
+    <Compile Include="ClientesVNuevo.Designer.cs">
       <DependentUpon>ClientesVNuevo.cs</DependentUpon>
     </Compile>
-    <Compile Include="Modificados Eli\ConsultarReserva.cs">
+    <Compile Include="ConsultarReserva.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Modificados Eli\ConsultarReserva.Designer.cs">
+    <Compile Include="ConsultarReserva.Designer.cs">
       <DependentUpon>ConsultarReserva.cs</DependentUpon>
     </Compile>
     <Compile Include="Empresa.cs" />
@@ -112,16 +112,16 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <Compile Include="Reserva.cs" />
-    <Compile Include="Modificados Eli\ReservaV.cs">
+    <Compile Include="ReservaV.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Modificados Eli\ReservaV.designer.cs">
+    <Compile Include="ReservaV.designer.cs">
       <DependentUpon>ReservaV.cs</DependentUpon>
     </Compile>
-    <Compile Include="Modificados Eli\TicketV.cs">
+    <Compile Include="TicketV.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Modificados Eli\TicketV.Designer.cs">
+    <Compile Include="TicketV.Designer.cs">
       <DependentUpon>TicketV.cs</DependentUpon>
     </Compile>
     <Compile Include="WebV.cs">
@@ -136,13 +136,13 @@
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Modificados Eli\ClientesV.resx">
+    <EmbeddedResource Include="ClientesV.resx">
       <DependentUpon>ClientesV.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Modificados Eli\ClientesVNuevo.resx">
+    <EmbeddedResource Include="ClientesVNuevo.resx">
       <DependentUpon>ClientesVNuevo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Modificados Eli\ConsultarReserva.resx">
+    <EmbeddedResource Include="ConsultarReserva.resx">
       <DependentUpon>ConsultarReserva.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
@@ -159,10 +159,10 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Modificados Eli\ReservaV.resx">
+    <EmbeddedResource Include="ReservaV.resx">
       <DependentUpon>ReservaV.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Modificados Eli\TicketV.resx">
+    <EmbeddedResource Include="TicketV.resx">
       <DependentUpon>TicketV.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="WebV.resx">
